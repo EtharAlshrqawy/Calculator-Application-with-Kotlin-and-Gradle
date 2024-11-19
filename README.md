@@ -16,7 +16,7 @@ This repository contains a Kotlin-based calculator application configured with G
 
 ```bash
 git clone https://github.com/EtharAlshrqawy/Calculator-Application-with-Kotlin-and-Gradle.git
-cd <repository-folder>
+cd Calculator-Application-with-Kotlin-and-Gradle
 ```
 
 ### Build and Run:
